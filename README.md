@@ -1,7 +1,7 @@
 # labspy08
 ## BAHASA PEMOGRAMAN
 ### ### Berikut flowchartnya
-![gambar1](ss/s1.png)
+![gambar1](ss/ss1.png)
 ```python
 from os import system
 ```
@@ -145,7 +145,7 @@ def tampil():
 - diatas adalah program untuk keluar atau mengakhiri proggram
 ## Berikut program ketika dijalankan
 
-![gambar2](ss/s2.png)
+![gambar2](ss/ss2.png)
 
 - diatas adalah tampilan menu ketika program dijalankan, dan pilihlah sesuai dengan perintah yang tertera
 
@@ -157,11 +157,11 @@ def tampil():
 5. Keluar Aplikasi
 ```
 
-![gambar3](ss/s3.png)
+![gambar3](ss/ss3.png)
 
 - diatas tampilan ketika memasukan no 1, apabila kita melanjutkan y maka akan melanjutkan dan menambahkan data, sedangkan jika kita melanjutkan T maka kita akan di arahkan ke menu utama
 
-![gambar4](ss/s4.png)
+![gambar4](ss/ss4.png)
 
 - diatas adalah tampilan, menampilkan keseluruhan data yang sudah disimpan
 
