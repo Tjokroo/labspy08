@@ -1,6 +1,6 @@
 # labspy08
 ## BAHASA PEMOGRAMAN
-### Berikut flowchartnya
+### Dibawah ini merupakan flowchartnya
 ![gambar1](ss/ss1.png)
 ```python
 from os import system
